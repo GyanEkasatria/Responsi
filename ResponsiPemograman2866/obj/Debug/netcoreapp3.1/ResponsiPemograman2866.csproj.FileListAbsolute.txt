@@ -1,0 +1,11 @@
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\bin\Debug\netcoreapp3.1\ResponsiPemograman2866.exe
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\bin\Debug\netcoreapp3.1\ResponsiPemograman2866.deps.json
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\bin\Debug\netcoreapp3.1\ResponsiPemograman2866.runtimeconfig.json
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\bin\Debug\netcoreapp3.1\ResponsiPemograman2866.runtimeconfig.dev.json
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\bin\Debug\netcoreapp3.1\ResponsiPemograman2866.dll
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\bin\Debug\netcoreapp3.1\ResponsiPemograman2866.pdb
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\obj\Debug\netcoreapp3.1\ResponsiPemograman2866.csprojAssemblyReference.cache
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\obj\Debug\netcoreapp3.1\ResponsiPemograman2866.AssemblyInfoInputs.cache
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\obj\Debug\netcoreapp3.1\ResponsiPemograman2866.AssemblyInfo.cs
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\obj\Debug\netcoreapp3.1\ResponsiPemograman2866.dll
+E:\Pemograman\ResponsiPemograman2866\ResponsiPemograman2866\obj\Debug\netcoreapp3.1\ResponsiPemograman2866.pdb
